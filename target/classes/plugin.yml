@@ -1,0 +1,21 @@
+name: RageArcade
+main: org.ragearcade.Main
+version: 1.0
+api-version: 1.14
+description: Custom plugin for RageArcade
+depend: [Vault, ProtocolLib]
+commands:
+  shop:
+    description: The is the shop command
+  verify:
+    description: The is the verify command8
+  link:
+    description: This is the link command
+  clipboard:
+    description: This is the clipboard command
+  restart:
+    description: This is the restart command
+  spawn:
+    description: This is the spawn command
+  wtp:
+    description: This is the wtp (world tp) command

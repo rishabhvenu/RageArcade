@@ -1,0 +1,8 @@
+discord:
+  token: TOKEN
+MySQL:
+  host: HOST
+  database: DATABASE
+  port: PORT
+  username: USERNAME
+  password: PASSWORD
